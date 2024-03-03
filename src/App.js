@@ -1,7 +1,5 @@
-import './App.css';
-import AddNote from './components/AddNote';
-
-
+import "./App.css";
+import AddNote from "./components/AddNote";
 
 function App() {
   return (
